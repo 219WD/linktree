@@ -184,10 +184,13 @@ a {
 
   .story-content {
     width: 100%;
-    padding: 2em;
+    padding: 1em;
   }
 
   .cursor {
     display: none;
+  }
+  h1 {
+    font-size: 28px; 
   }
 }
